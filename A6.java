@@ -1,4 +1,7 @@
 public class A6 {
+    /**
+     * 找出不規則二維陣列中的最大值，用巢狀 for 和巢狀 for-each 各做一次並印出。
+     */
     public static void main(String[] args) {
         double [][] a1 ={
                     {9,12,67},

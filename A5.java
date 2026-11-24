@@ -1,4 +1,7 @@
 public class A5 {
+    /**
+     * 對照一維和二維陣列的走訪方式：各自用一般 for 迴圈和 for-each 印出所有元素。
+     */
     public static void main(String[] args) {
         double[] a0={1,2,3,4,5,6};
         for(int i=0 ; i<a0.length ; i++){

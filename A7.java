@@ -1,4 +1,7 @@
 public class A7 {
+     /**
+      * 找出三維陣列中的最大值，用三層 for 迴圈和三層 for-each 各做一次並印出。
+      */
      public static void main(String[] args) {
         double [][][] a ={
                     {
